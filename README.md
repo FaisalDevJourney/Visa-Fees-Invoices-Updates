@@ -6,6 +6,6 @@ Download the latest Windows ZIP from [Releases](https://github.com/FaisalDevJour
 
 Update checks and downloads do not require a GitHub account or access token.
 
-Close the application before updating. Copy the program files into the existing application folder. Keep `invoices.db`, `accounts.db`, employee document folders, and backups.
+The application detects and downloads updates in the background. When an update is ready, select **Install and restart** inside the application. Existing invoices, accounts, employee records, documents, and backups are retained.
 
 Downloads contain program files only. Company records, account credentials, and employee documents are not included.
